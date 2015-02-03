@@ -1,0 +1,32 @@
+body{
+	width: 100%;
+}
+ul{
+	padding: 0;
+}
+ul, li{
+	list-style: none;
+}
+h2{
+	font-size: 1em;
+}
+.long-line{
+	width: 100%;
+}
+.article li{
+	margin: 10px;
+	overflow: hidden;
+	cursor: pointer;
+}
+.article a{
+	color: #333;
+	text-decoration: none;
+}
+.thumb{
+	float: left;
+	width: 100px;
+}
+.thumb img{
+	width: 100%;
+	display: block;
+}
